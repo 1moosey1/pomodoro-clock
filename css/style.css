@@ -1,0 +1,43 @@
+body { 
+  background-color: #424242; 
+}
+
+hr { 
+  border-color: white; 
+}
+
+h1, h2, h3 { 
+  color: white; 
+}
+
+button {
+  
+  background-color: transparent;
+  border: none;
+  outline: 0;
+}
+
+.f2x { 
+  font-size: 200%; 
+}
+
+.inline { 
+  
+  display: inline;
+  padding: 10px;
+  color: white;
+}
+
+.circle {
+  
+  width: 20em;
+  height: 20em;
+  border-radius: 50%;
+  background-color: #4CA64C;
+  border: .3em solid #4CA64C;
+  margin: 5em;
+}
+
+.circlealign {
+  line-height: 5em;
+}
